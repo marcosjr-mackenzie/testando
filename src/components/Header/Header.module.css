@@ -1,0 +1,16 @@
+@import "@/app/globals.css";
+.header {
+    padding: 2em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav {
+    display: flex;
+    gap: 2em;
+}
+.link {
+    font-size: x-large;
+    font-family: var(--font-roboto-sans);
+}
